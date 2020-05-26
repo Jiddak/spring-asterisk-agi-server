@@ -1,0 +1,3 @@
+asterisk:
+  agi:
+    port: 4576
